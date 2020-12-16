@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="" />
+    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/taak2/img/cat0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taak2/img/cat1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taak2/img/cat2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taak2/img/cat3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taak2/img/cat4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/taak2/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/overons.html" beforeDir="false" afterPath="$PROJECT_DIR$/taak2/overons.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,10 +44,22 @@
       <option name="presentableId" value="Default" />
       <updated>1608110778397</updated>
       <workItem from="1608110782753" duration="1583000" />
+      <workItem from="1608125969397" duration="3942000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
