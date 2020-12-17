@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="copy from IJ to phpstorm">
+      <change afterPath="$PROJECT_DIR$/recept/Hoofdgerecht.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recept/Nagerecht.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recept/Voorgerecht.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Salades.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ljW2cJUIVd4pdesICkzWushvmR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,6 +57,7 @@
       <updated>1608110778397</updated>
       <workItem from="1608110782753" duration="1583000" />
       <workItem from="1608145573518" duration="2045000" />
+      <workItem from="1608201736518" duration="10652000" />
     </task>
     <task id="LOCAL-00001" summary="copy from IJ to phpstorm">
       <created>1608148886747</created>
@@ -59,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608148886747</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="copy from IJ to phpstorm">
+      <created>1608201767960</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608201767960</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +89,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="copy from IJ to phpstorm" />
