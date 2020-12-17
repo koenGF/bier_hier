@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/taak2/img/cat0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taak2/img/cat1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taak2/img/cat2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taak2/img/cat3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taak2/img/cat4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/taak2/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/taak2/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/taak2/overons.html" beforeDir="false" afterPath="$PROJECT_DIR$/taak2/overons.html" afterDir="false" />
@@ -61,5 +56,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
