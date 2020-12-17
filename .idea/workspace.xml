@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="copy from IJ to phpstorm">
-      <change afterPath="$PROJECT_DIR$/recept/Hoofdgerecht.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recept/Nagerecht.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recept/Voorgerecht.html" afterDir="false" />
+    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="hoofd&amp;na gerecht toegevoegd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recept/Salades.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Hoofdgerecht.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Hoofdgerecht.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Nagerecht.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Nagerecht.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
       <updated>1608110778397</updated>
       <workItem from="1608110782753" duration="1583000" />
       <workItem from="1608145573518" duration="2045000" />
-      <workItem from="1608201736518" duration="10652000" />
+      <workItem from="1608201736518" duration="14567000" />
     </task>
     <task id="LOCAL-00001" summary="copy from IJ to phpstorm">
       <created>1608148886747</created>
@@ -73,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608201767960</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hoofd&amp;na gerecht toegevoegd">
+      <created>1608238355813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608238355813</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="copy from IJ to phpstorm" />
-    <option name="LAST_COMMIT_MESSAGE" value="copy from IJ to phpstorm" />
+    <MESSAGE value="hoofd&amp;na gerecht toegevoegd" />
+    <option name="LAST_COMMIT_MESSAGE" value="hoofd&amp;na gerecht toegevoegd" />
   </component>
 </project>
