@@ -12,12 +12,30 @@
         div#wrapper {
             width: 1024px;
             margin: auto;
-            height: 750px;
+            height: 840px;
             background-color: pink;
             padding: 50px;
         }
         h1,h4 {
             margin: 0;
+        }
+        nav {
+            background-color: rgb(30, 130, 180);
+            width: 1024px;
+            margin: auto;
+        }
+        nav ul li {
+            background-color: rgb(31, 131, 177);
+            color:whitesmoke;
+            display: inline-block;
+            list-style-type: none;
+            padding-top: 50px;
+            padding-right: 20px;
+            padding-bottom: 15px;
+        }
+        nav ul li a {
+            color: white;
+            text-align: center;
         }
         section#top {
             height: 340px;
@@ -50,13 +68,28 @@
             float: right;
             width: 100px;
         }
+        footer {
+            background-color: dimgray;
+            color: white;
+            padding: 80px;
+            width: 1024px;
+            margin: 16px auto auto;
+        }
     </style>
 </head>
 <body>
 
+<nav>
+    <ul>
+        <li>Home</li>
+        <li>Concerten</li>
+        <li>Sport</li>
+        <li>Recepten</li>
+        <li>Contact</li>
+    </ul>
+</nav>
 <div id="wrapper">
     <h1>Contact</h1>
-
     <section id="top">
     <div class="top">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19482.48246860624!2d5.252710400000002!3d52.38292479999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c617c1dcedf6af%3A0xb7e60f149191e0f!2sMBO%20College%20Almere%20-%20ROC%20van%20Flevoland!5e0!3m2!1snl!2snl!4v1605014528758!5m2!1snl!2snl" width="100%" height="300px" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
@@ -100,6 +133,10 @@
         </div>
     </form>
     </section>
-</div>
+</div> <!-- wrapper -->
+<footer>
+    <div class="float">Copyright &copy; ROC Flevoland 2105</div>
+    <div>Sitelinks</div>
+</footer>
 </body>
 </html>
