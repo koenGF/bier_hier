@@ -1,4 +1,6 @@
 nav {
+    width: 1124px;
+    margin: auto;
     background-color: rgb(30, 130, 180);
 }
 nav ul li {
@@ -9,6 +11,7 @@ nav ul li {
     padding-top: 50px;
     padding-right: 20px;
     padding-bottom: 15px;
+    margin: 0;
 }
 nav ul li a {
     color: white;
@@ -18,6 +21,7 @@ nav ul li a {
 body{
     font-family: roboto, serif;
     box-sizing: border-box;
+
 }
 div.static {
     position: static;
@@ -39,6 +43,7 @@ div#wrapper {
     margin: auto;
     background-color: #ff471a;
     padding: 50px;
+
 }
 div.team {
     background-color: white;
@@ -60,4 +65,23 @@ div#muddy {
 }
 div#muddy article{
     margin: 10px;
+}
+footer {
+
+    margin: auto;
+    width: 964px;
+    background-color: dimgray;
+    color: white;
+    padding: 80px;
+    margin-top: 20px;
+}
+p {
+    display: inline-block;
+    background-color: dimgray;
+    width: 125px;
+    height: 200px;
+    border: 10px solid yellow;
+    padding: 50px;
+    margin: 25px;
+
 }
