@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="hoofd&amp;na gerecht toegevoegd">
+    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="Inhoud bewerkt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recept/Hoofdgerecht.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Hoofdgerecht.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recept/Nagerecht.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Nagerecht.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HTML" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -55,7 +56,12 @@
       <updated>1608110778397</updated>
       <workItem from="1608110782753" duration="1583000" />
       <workItem from="1608145573518" duration="2045000" />
-      <workItem from="1608201736518" duration="14567000" />
+      <workItem from="1608201736518" duration="14886000" />
+      <workItem from="1608271793401" duration="2921000" />
+      <workItem from="1608557251955" duration="1788000" />
+      <workItem from="1609678914194" duration="1785000" />
+      <workItem from="1609748762313" duration="3352000" />
+      <workItem from="1609837633623" duration="4349000" />
     </task>
     <task id="LOCAL-00001" summary="copy from IJ to phpstorm">
       <created>1608148886747</created>
@@ -78,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608238355813</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Inhoud bewerkt">
+      <created>1608242355792</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608242355792</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +112,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="copy from IJ to phpstorm" />
     <MESSAGE value="hoofd&amp;na gerecht toegevoegd" />
-    <option name="LAST_COMMIT_MESSAGE" value="hoofd&amp;na gerecht toegevoegd" />
+    <MESSAGE value="Inhoud bewerkt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inhoud bewerkt" />
   </component>
 </project>
