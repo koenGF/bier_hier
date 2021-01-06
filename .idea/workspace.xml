@@ -7,6 +7,14 @@
       <change beforePath="$PROJECT_DIR$/recept/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recept/Nagerecht.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Nagerecht.html" afterDir="false" />
     </list>
+    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/img/cat0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/img/cat1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/img/cat2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/img/cat3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/img/cat4.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -62,6 +71,14 @@
       <workItem from="1609678914194" duration="1785000" />
       <workItem from="1609748762313" duration="3352000" />
       <workItem from="1609837633623" duration="4349000" />
+      <workItem from="1608125969397" duration="3942000" />
+      <workItem from="1609367158993" duration="12000" />
+      <workItem from="1609751410851" duration="2198000" />
+      <workItem from="1609757477860" duration="1310000" />
+      <workItem from="1609770787349" duration="417000" />
+      <workItem from="1609847098277" duration="1172000" />
+      <workItem from="1609930174368" duration="773000" />
+      <workItem from="1609949763147" duration="678000" />
     </task>
     <task id="LOCAL-00001" summary="copy from IJ to phpstorm">
       <created>1608148886747</created>
@@ -114,5 +131,20 @@
     <MESSAGE value="hoofd&amp;na gerecht toegevoegd" />
     <MESSAGE value="Inhoud bewerkt" />
     <option name="LAST_COMMIT_MESSAGE" value="Inhoud bewerkt" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
