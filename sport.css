@@ -19,7 +19,7 @@ nav ul li a {
 }
 
 body{
-    font-family: roboto, serif;
+    font-family: 'roboto',sans-serif;
     box-sizing: border-box;
 
 }
@@ -41,7 +41,7 @@ div#invaded {
 div#wrapper {
     width: 1024px;
     margin: auto;
-    background-color: #ff471a;
+    background-color: #cc2900;
     padding: 50px;
 
 }
@@ -75,15 +75,40 @@ footer {
     padding: 80px;
     margin-top: 20px;
 }
-p {
+
+div.jump {
 
     color: yellow;
-    display: inline-block;
+    display: inline-flex;
     background-color: black;
     width: 150px;
-    height: 200px;
+    height: 300px;
     border: 10px solid yellow;
     padding: 50px;
     margin: 25px;
 
 }
+div.climb{
+    color:#f4561f  ;
+    display: inline-flex;
+    background-color:black;
+    width: 150px;
+    height: 300px;
+    border: 10px solid #ffde1d;
+    padding: 50px;
+    margin: 25px;
+}
+
+div.mudd{
+    color:black ;
+    display: inline-flex;
+    background-color:	#846459;
+    width: 150px;
+    height: 300px;
+    border: 10px solid #ffde1d;
+    padding: 50px;
+    margin: 25px;
+}
+
+
+
