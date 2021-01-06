@@ -1,0 +1,89 @@
+nav {
+    width: 1124px;
+    margin: auto;
+    background-color: rgb(30, 130, 180);
+}
+nav ul li {
+    background-color: rgb(31, 131, 177);
+    color:whitesmoke;
+    display: inline-block;
+    list-style-type: none;
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    margin: 0;
+}
+nav ul li a {
+    color: white;
+    text-align: center;
+}
+
+body{
+    font-family: roboto, serif;
+    box-sizing: border-box;
+
+}
+div.static {
+    position: static;
+    border: 3px #991f00 ;
+}
+
+div#invaded img{
+    height: 200px;
+    width: 200px;
+
+
+}
+div#invaded {
+    display:inline-block;
+}
+
+div#wrapper {
+    width: 1024px;
+    margin: auto;
+    background-color: #ff471a;
+    padding: 50px;
+
+}
+div.team {
+    background-color: white;
+    height: 150px;
+    margin: 10px;
+    display: inline-flex;
+    border: solid black 1px;
+}
+div.team article {
+    margin: 10px;
+}
+div#muddy {
+    background-color:black;
+    height: 200px;
+    margin: 10px;
+    display: inline-flex;
+    border: solid white 1px;
+    color: white;
+}
+div#muddy article{
+    margin: 10px;
+}
+footer {
+
+    margin: auto;
+    width: 964px;
+    background-color: dimgray;
+    color: white;
+    padding: 80px;
+    margin-top: 20px;
+}
+p {
+
+    color: yellow;
+    display: inline-block;
+    background-color: black;
+    width: 150px;
+    height: 200px;
+    border: 10px solid yellow;
+    padding: 50px;
+    margin: 25px;
+
+}
