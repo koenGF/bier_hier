@@ -1,3 +1,10 @@
+* {
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+}
+h1 {
+    padding: 50px 0 0 50px;
+}
 nav {
     background-color: rgb(30, 130, 180);
 }
@@ -14,8 +21,27 @@ nav ul li a {
     color: white;
     text-align: center;
 }
+div.float {
+    float: right;
+}
+div.position {
+    position: relative;
+    right: 50px;
+    bottom: 50px;
+}
+div.body {
+    border: 10x;
+    margin: 50px 25px 25px 50px;
+}
+
 footer {
     background-color: dimgray;
     color: white;
     padding: 80px;
+}
+article {
+    display: inline-block;
+    width: 33%;
+    padding-right: 15px;
+    vertical-align: top;
 }

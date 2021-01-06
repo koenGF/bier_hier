@@ -21,8 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homepage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/homepage/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage/styles.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -60,11 +61,18 @@
       <option name="presentableId" value="Default" />
       <updated>1608110778397</updated>
       <workItem from="1608110782753" duration="1583000" />
+      <workItem from="1608207683829" duration="7656000" />
+      <workItem from="1608216053960" duration="69000" />
+      <workItem from="1608216243503" duration="28000" />
+      <workItem from="1608276665445" duration="3171000" />
+      <workItem from="1609756502682" duration="1835000" />
+      <workItem from="1609859937887" duration="3883000" />
+      <workItem from="1609936721700" duration="16299000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
