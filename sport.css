@@ -76,9 +76,11 @@ footer {
     margin-top: 20px;
 }
 p {
+
+    color: yellow;
     display: inline-block;
-    background-color: dimgray;
-    width: 125px;
+    background-color: black;
+    width: 150px;
     height: 200px;
     border: 10px solid yellow;
     padding: 50px;
