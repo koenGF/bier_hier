@@ -29,8 +29,8 @@ div.static {
 }
 
 div#invaded img{
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
 
 
 }
@@ -41,7 +41,7 @@ div#invaded {
 div#wrapper {
     width: 1024px;
     margin: auto;
-    background-color: #ff471a;
+    background-color: #EAD6FF;
     padding: 50px;
 
 }
@@ -55,17 +55,17 @@ div.team {
 div.team article {
     margin: 10px;
 }
-div#muddy {
-    background-color:black;
+div#square {
     height: 200px;
     margin: 10px;
     display: inline-flex;
-    border: solid white 1px;
-    color: white;
+    color: black;
 }
+
 div#muddy article{
     margin: 10px;
 }
+
 footer {
 
     margin: auto;
