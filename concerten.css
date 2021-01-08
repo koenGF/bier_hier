@@ -40,6 +40,7 @@ div#invaded {
 
 div#wrapper {
     width: 1024px;
+    height: 1100px;
     margin: auto;
     background-color: #EAD6FF;
     padding: 50px;
@@ -56,10 +57,27 @@ div.team article {
     margin: 10px;
 }
 div#square {
-    height: 200px;
+    background-color: #DAB7FF;
     margin: 10px;
     display: inline-flex;
     color: black;
+    padding: 10px;
+    width: 300px;
+    float: right;
+}
+
+div#rect {
+    background-color: #DAB7FF;
+    margin: 10px;
+    display: inline-flex;
+    color: black;
+    padding: 10px;
+    float: left;
+    width: 600px;
+}
+
+div#pictures {
+    float: right;
 }
 
 div#muddy article{
