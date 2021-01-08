@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="detais bewerkt">
+    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Nagerecht.css" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Nagerecht.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Nagerecht.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Nagerecht.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Voorgerecht.css" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Voorgerecht.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Voorgerecht.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Voorgerecht.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +78,7 @@
       <workItem from="1609847098277" duration="1172000" />
       <workItem from="1609930174368" duration="773000" />
       <workItem from="1609949763147" duration="678000" />
-      <workItem from="1610091430504" duration="16071000" />
+      <workItem from="1610091430504" duration="17887000" />
     </task>
     <task id="LOCAL-00001" summary="copy from IJ to phpstorm">
       <created>1608148886747</created>
@@ -125,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610137575460</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="detais bewerkt">
+      <created>1610138747685</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610138747685</updated>
+    </task>
+    <task id="LOCAL-00009" summary="detais bewerkt">
+      <created>1610138838548</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610138838548</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +165,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="plaatjes aangepast" />
     <MESSAGE value="detais bewerkt" />
-    <option name="LAST_COMMIT_MESSAGE" value="detais bewerkt" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
 </project>
