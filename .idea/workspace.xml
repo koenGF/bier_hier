@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="Inhoud veranderd">
+    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="plaatjes aangepast">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Hoofdgerecht.css" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Hoofdgerecht.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Hoofdgerecht.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Hoofdgerecht.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recept/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recept/Nagerecht.css" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Nagerecht.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recept/Nagerecht.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Nagerecht.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Voorgerecht.css" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Voorgerecht.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recept/Voorgerecht.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Voorgerecht.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +80,7 @@
       <workItem from="1609847098277" duration="1172000" />
       <workItem from="1609930174368" duration="773000" />
       <workItem from="1609949763147" duration="678000" />
-      <workItem from="1610091430504" duration="10622000" />
+      <workItem from="1610091430504" duration="13572000" />
     </task>
     <task id="LOCAL-00001" summary="copy from IJ to phpstorm">
       <created>1608148886747</created>
@@ -108,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608242355792</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="plaatjes aangepast">
+      <created>1610118628696</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610118628696</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,5 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="plaatjes aangepast" />
+    <option name="LAST_COMMIT_MESSAGE" value="plaatjes aangepast" />
   </component>
 </project>
