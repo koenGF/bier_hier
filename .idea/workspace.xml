@@ -24,6 +24,20 @@
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
+    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="Inhoud bewerkt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Hoofdgerecht.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Hoofdgerecht.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Nagerecht.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Nagerecht.html" afterDir="false" />
+    </list>
+    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/img/cat0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/img/cat1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/img/cat2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/img/cat3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/img/cat4.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,22 +46,37 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ljW2cJUIVd4pdesICkzWushvmR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HTML" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -76,7 +105,51 @@
       <workItem from="1610033913090" duration="2766000" />
       <workItem from="1610043657739" duration="4258000" />
       <workItem from="1610098167883" duration="5787000" />
+      <workItem from="1608145573518" duration="2045000" />
+      <workItem from="1608201736518" duration="14886000" />
+      <workItem from="1608271793401" duration="2921000" />
+      <workItem from="1608557251955" duration="1788000" />
+      <workItem from="1609678914194" duration="1785000" />
+      <workItem from="1609748762313" duration="3352000" />
+      <workItem from="1609837633623" duration="4349000" />
+      <workItem from="1608125969397" duration="3942000" />
+      <workItem from="1609367158993" duration="12000" />
+      <workItem from="1609751410851" duration="2198000" />
+      <workItem from="1609757477860" duration="1310000" />
+      <workItem from="1609770787349" duration="417000" />
+      <workItem from="1609847098277" duration="1172000" />
+      <workItem from="1609930174368" duration="773000" />
+      <workItem from="1609949763147" duration="678000" />
     </task>
+    <task id="LOCAL-00001" summary="copy from IJ to phpstorm">
+      <created>1608148886747</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608148886747</updated>
+    </task>
+    <task id="LOCAL-00002" summary="copy from IJ to phpstorm">
+      <created>1608201767960</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608201767960</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hoofd&amp;na gerecht toegevoegd">
+      <created>1608238355813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608238355813</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Inhoud bewerkt">
+      <created>1608242355792</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608242355792</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +172,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608128560361" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="copy from IJ to phpstorm" />
+    <MESSAGE value="hoofd&amp;na gerecht toegevoegd" />
+    <MESSAGE value="Inhoud bewerkt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inhoud bewerkt" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
