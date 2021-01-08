@@ -19,6 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -37,6 +38,10 @@
       <change beforePath="$PROJECT_DIR$/taak2/img/cat2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/taak2/img/cat3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/taak2/img/cat4.jpg" beforeDir="false" />
+=======
+    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> recept
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +77,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HTML" />
+=======
+>>>>>>> recept
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -92,6 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608110778397</updated>
       <workItem from="1608110782753" duration="1583000" />
+<<<<<<< HEAD
       <workItem from="1608207683829" duration="7656000" />
       <workItem from="1608216053960" duration="69000" />
       <workItem from="1608216243503" duration="28000" />
@@ -150,6 +159,18 @@
       <updated>1608242355792</updated>
     </task>
     <option name="localTasksCounter" value="5" />
+=======
+      <workItem from="1608134879208" duration="1281000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1608115579582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608115579583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+>>>>>>> recept
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,5 +226,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
