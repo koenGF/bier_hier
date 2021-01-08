@@ -18,7 +18,49 @@ nav ul li a {
     text-align: center;
 }
 footer {
+    clear: both;
     background-color: dimgray;
     color: white;
-    padding: 80px;
+    padding: 20px;
+    width: 100%;
+    margin-top: 20px;
+
 }
+
+
+
+ * {
+     font-family: 'Roboto', sans-serif;
+ }
+
+ #receptcontainer {
+     width: 90%;
+     min-height: 440px;
+     margin: auto;
+     margin-top: 10px;
+     margin-bottom: 10px;/*buitenkant van element bijv. <div>*/
+ }
+ #recepttexst{
+     width: 300px;
+     float: left;
+ }
+ #receptplaatjes{
+     width: 60%;
+     float: right;
+ }
+
+ .tiramisuplaatjes{
+     width: 300px;
+     height: 200px;
+     float: right;
+     padding: 10px;/*binnen kant van element bijv. <div>*/
+
+ }
+
+ #tiramisuruimte{
+     width: 450px;
+     float: right;
+
+ }
+
+

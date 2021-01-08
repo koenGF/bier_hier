@@ -3,35 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Nagerecht</title>
-    <style>
-        * {
-            font-family: 'Roboto', sans-serif;
-        }
-        /* navigatie bar*/
-        nav {
-            background-color: rgb(30, 130, 180);
-        }
-        nav ul li {
-            background-color: rgb(31, 131, 177);
-            color:whitesmoke;
-            display: inline-block;
-            list-style-type: none;
-            padding-top: 50px;
-            padding-right: 20px;
-            padding-bottom: 15px;
-        }
-        nav ul li a {
-            color: white;
-            text-align: center;
-        }
-        /*footer*/
-        footer {
-            background-color: dimgray;
-            color: white;
-            padding: 80px;
-        }
-
-    </style>
+    <link rel="stylesheet" href="Nagerecht.css">
 </head>
 
 <body>
@@ -46,8 +18,8 @@
     </ul>
 </nav>
 
-<div style="width: 80%; margin:auto">
-<div style="width: 300px; float: left;">
+<div id="receptcontainer">
+<div id="recepttexst">
 <h1>Tiramisu</h1>
 <p>Ingrediënten:</p>
 <ul>
@@ -61,15 +33,18 @@
 </ul>
 </div>
 
-<div style="width: 200px; float: right;">
-    <img src="Image/tiramisu_zonder_ei_02.jpg"   style="width:300px;height:200px;" alt=""/>
-    <img src="Image/tiramisu_zonder_ei_05.jpg"  style="width:300px;height:200px;" alt=""/>
-
-
-</div>
-    <img src="Image/Tiramisu-zonder-ei.jpg"  style="width:400px;height:200px;" alt=""/>
+<div id="receptplaatjes">
+    <div id="tiramisuruimte"><img src="Image/tiramisu_zonder_ei_02.jpg"   class="tiramisuplaatjes" /></div>
+    <img src="Image/tiramisu_zonder_ei_05.jpg"  class="tiramisuplaatjes" />
+    <img src="Image/Tiramisu-zonder-ei.jpg"  class="tiramisuplaatjes"/>
 </div>
 
+</div>
+
+<footer>
+    <div>Copyright &copy; ROC Flevoland 2105</div>
+    <div>Sitelinks</div>
+</footer>
 
 </body>
 </html>
