@@ -1,12 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="final">
+<<<<<<< HEAD
+    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/recept/recept.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recept/Nagerecht.css" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Nagerecht.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="copy from IJ to phpstorm">
+      <change beforePath="$PROJECT_DIR$/Concertpagina.html" beforeDir="false" afterPath="$PROJECT_DIR$/Concertpagina.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlassAnimalsPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/GlassAnimalsPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SevdalizaPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/SevdalizaPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheNeighbourhoodPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/TheNeighbourhoodPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concerten.css" beforeDir="false" afterPath="$PROJECT_DIR$/concerten.css" afterDir="false" />
+    </list>
+    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="Inhoud bewerkt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Hoofdgerecht.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Hoofdgerecht.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recept/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recept/Nagerecht.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Nagerecht.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recept/Voorgerecht.css" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Voorgerecht.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recept/Voorgerecht.html" beforeDir="false" afterPath="$PROJECT_DIR$/recept/Voorgerecht.html" afterDir="false" />
+    </list>
+    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/img/cat0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/img/cat1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/img/cat2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/img/cat3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taak2/img/cat4.jpg" beforeDir="false" />
+=======
+    <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> recept
+=======
+      <change beforePath="$PROJECT_DIR$/recept/Index.html" beforeDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +71,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectId" id="1ljW2cJUIVd4pdesICkzWushvmR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -36,25 +81,30 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/recept/Image" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HTML" />
+=======
+>>>>>>> recept
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ritak\PhpstormProjects\bier_hier\recept\Image" />
-    </key>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="" />
@@ -63,6 +113,20 @@
       <option name="presentableId" value="Default" />
       <updated>1608110778397</updated>
       <workItem from="1608110782753" duration="1583000" />
+<<<<<<< HEAD
+      <workItem from="1608207683829" duration="7656000" />
+      <workItem from="1608216053960" duration="69000" />
+      <workItem from="1608216243503" duration="28000" />
+      <workItem from="1608276665445" duration="3171000" />
+      <workItem from="1609756502682" duration="1835000" />
+      <workItem from="1609859937887" duration="3883000" />
+      <workItem from="1609936721700" duration="16299000" />
+      <workItem from="1609965840048" duration="976000" />
+      <workItem from="1610012636892" duration="91000" />
+      <workItem from="1610020416373" duration="3901000" />
+      <workItem from="1610033913090" duration="2766000" />
+      <workItem from="1610043657739" duration="4258000" />
+      <workItem from="1610098167883" duration="5787000" />
       <workItem from="1608145573518" duration="2045000" />
       <workItem from="1608201736518" duration="14886000" />
       <workItem from="1608271793401" duration="2921000" />
@@ -78,7 +142,7 @@
       <workItem from="1609847098277" duration="1172000" />
       <workItem from="1609930174368" duration="773000" />
       <workItem from="1609949763147" duration="678000" />
-      <workItem from="1610091430504" duration="17887000" />
+      <workItem from="1610135798582" duration="1306000" />
     </task>
     <task id="LOCAL-00001" summary="copy from IJ to phpstorm">
       <created>1608148886747</created>
@@ -108,46 +172,26 @@
       <option name="project" value="LOCAL" />
       <updated>1608242355792</updated>
     </task>
-    <task id="LOCAL-00005" summary="plaatjes aangepast">
-      <created>1610118628696</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1610118628696</updated>
+    <option name="localTasksCounter" value="5" />
+=======
+      <workItem from="1608134879208" duration="1281000" />
     </task>
-    <task id="LOCAL-00006" summary="detais bewerkt">
-      <created>1610122360322</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+    <task id="LOCAL-00001" summary="test">
+      <created>1608115579582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1610122360322</updated>
+      <updated>1608115579583</updated>
     </task>
-    <task id="LOCAL-00007" summary="detais bewerkt">
-      <created>1610137575460</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1610137575460</updated>
-    </task>
-    <task id="LOCAL-00008" summary="detais bewerkt">
-      <created>1610138747685</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1610138747685</updated>
-    </task>
-    <task id="LOCAL-00009" summary="detais bewerkt">
-      <created>1610138838548</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1610138838548</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="2" />
+>>>>>>> recept
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -163,9 +207,63 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="plaatjes aangepast" />
-    <MESSAGE value="detais bewerkt" />
-    <MESSAGE value="final" />
-    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1608128560361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608128560361" />
+  </component>
+<<<<<<< Updated upstream
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="copy from IJ to phpstorm" />
+    <MESSAGE value="hoofd&amp;na gerecht toegevoegd" />
+    <MESSAGE value="Inhoud bewerkt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inhoud bewerkt" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+=======
+>>>>>>> Stashed changes
 </project>
