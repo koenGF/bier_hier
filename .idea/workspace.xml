@@ -21,8 +21,10 @@
   <component name="ChangeListManager">
 <<<<<<< HEAD
     <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/recept/recept.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="Inhoud bewerkt">
@@ -42,6 +44,9 @@
     <list default="true" id="056ddb11-200f-4809-a616-b7152f973289" name="Default Changelist" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 >>>>>>> recept
+=======
+      <change beforePath="$PROJECT_DIR$/recept/Index.html" beforeDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +134,7 @@
       <workItem from="1609847098277" duration="1172000" />
       <workItem from="1609930174368" duration="773000" />
       <workItem from="1609949763147" duration="678000" />
+      <workItem from="1610135798582" duration="1306000" />
     </task>
     <task id="LOCAL-00001" summary="copy from IJ to phpstorm">
       <created>1608148886747</created>
@@ -188,12 +194,16 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1608128560361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608128560361" />
   </component>
+<<<<<<< Updated upstream
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -243,4 +253,6 @@
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
+=======
+>>>>>>> Stashed changes
 </project>
