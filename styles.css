@@ -2,8 +2,18 @@
     box-sizing: border-box;
     font-family: Roboto, sans-serif;
 }
+body {
+    background-image: url("images/bos.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
 h1 {
-    padding: 50px 0 0 50px;
+    margin: 50px 0 0 200px;
+}
+div#wrapper {
+    margin: auto;
+    width: 1920px;
 }
 nav {
     background-color: rgb(30, 130, 180);
@@ -21,26 +31,26 @@ nav ul li a {
     color: white;
     text-align: center;
 }
-div.float {
-    float: right;
-}
 div.position {
     position: relative;
     right: 50px;
     bottom: 50px;
 }
 div.body {
-    border: 10x;
+    border: groove lightseagreen 18px;
     margin: 50px 25px 25px 50px;
+    background-color: forestgreen;
 }
-
+div.float {
+    float: right;
+}
 footer {
     background-color: dimgray;
     color: white;
     padding: 80px;
 }
 article {
-    display: inline-block;
+    display: inline-flex;
     width: 33%;
     padding-right: 15px;
     vertical-align: top;
